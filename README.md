@@ -1,4 +1,4 @@
-# Goldie gold price CLI
+# Goldie - gold price CLI tool
 Outputs the current(Kinda) price of gold into the cli. You can also input flags to ajust the price to another weight and/or currency.
 
 ## Usage and flags:
